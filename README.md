@@ -10,7 +10,7 @@ Engenheiro de software focado em soluções com alta disponibilidade e escalabil
 
 ## 🚀 Minhas Skills
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,terraform,aws,=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,python,terraform,prometheus,grafana,aws,=light)](https://skillicons.dev)
 
 ##
  
